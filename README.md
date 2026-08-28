@@ -4,7 +4,7 @@ Hello this is testing.... Adding smth to test if it really works....
 
 [![LICENSE](https://img.shields.io/github/license/Ei-Phyu-Sinn-Kyaing/devopTest.svg?style=flat-square)](https://github.com/Ei-Phyu-Sinn-Kyaing/devopTest/blob/main/LICENSE)
 
-[![Releases](https://img.shields.io/github/v/release/Ei-Phyu-Sinn-Kyaing/devopTest?style=flat-square)](https://github.com/Ei-Phyu-Sinn-Kyaing/devopTest/releases)
+[![Releases](https://img.shields.io/github/release/Ei-Phyu-Sinn-Kyaing/devopTest/all.svg?style=flat-square)](https://github.com/Ei-Phyu-Sinn-Kyaing/devopTest/releases)
 
 # DevOps
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Ei-Phyu-Sinn-Kyaing/devopTest/main.yml?style=flat-square)
